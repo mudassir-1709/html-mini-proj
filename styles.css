@@ -48,11 +48,6 @@ body::-webkit-scrollbar-thumb{
   color: whitesmoke;
 }
 
-.menu-btn{
-    
-}
-
-
 .col-4{
     display: flex;
     justify-content: flex-end
